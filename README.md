@@ -1,1 +1,0 @@
-# softwareDevelopment-labs
