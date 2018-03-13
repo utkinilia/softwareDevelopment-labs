@@ -1,0 +1,14 @@
+E:\softwareDevelopment-labs\lab-5\lab-5\bin\Debug\lab-5.exe.config
+E:\softwareDevelopment-labs\lab-5\lab-5\bin\Debug\lab-5.exe
+E:\softwareDevelopment-labs\lab-5\lab-5\bin\Debug\lab-5.pdb
+E:\softwareDevelopment-labs\lab-5\lab-5\obj\Debug\lab-5.csprojResolveAssemblyReference.cache
+E:\softwareDevelopment-labs\lab-5\lab-5\obj\Debug\lab-5.csproj.CoreCompileInputs.cache
+E:\softwareDevelopment-labs\lab-5\lab-5\obj\Debug\lab-5.exe
+E:\softwareDevelopment-labs\lab-5\lab-5\obj\Debug\lab-5.pdb
+C:\Users\Admin\Desktop\lab-5\lab-5\bin\Debug\lab-5.exe.config
+C:\Users\Admin\Desktop\lab-5\lab-5\bin\Debug\lab-5.exe
+C:\Users\Admin\Desktop\lab-5\lab-5\bin\Debug\lab-5.pdb
+C:\Users\Admin\Desktop\lab-5\lab-5\obj\Debug\lab-5.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\lab-5\lab-5\obj\Debug\lab-5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lab-5\lab-5\obj\Debug\lab-5.exe
+C:\Users\Admin\Desktop\lab-5\lab-5\obj\Debug\lab-5.pdb
