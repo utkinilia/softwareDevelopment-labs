@@ -1,0 +1,14 @@
+E:\softwareDevelopment-labs\lab-6\lab-6\bin\Debug\lab-6.exe.config
+E:\softwareDevelopment-labs\lab-6\lab-6\bin\Debug\lab-6.exe
+E:\softwareDevelopment-labs\lab-6\lab-6\bin\Debug\lab-6.pdb
+E:\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.csprojResolveAssemblyReference.cache
+E:\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.csproj.CoreCompileInputs.cache
+E:\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.exe
+E:\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.pdb
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\bin\Debug\lab-6.exe.config
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\bin\Debug\lab-6.exe
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\bin\Debug\lab-6.pdb
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.exe
+C:\Users\Admin\Documents\softwareDevelopment-labs\lab-6\lab-6\obj\Debug\lab-6.pdb
