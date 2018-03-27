@@ -1,0 +1,14 @@
+E:\softwareDevelopment-labs\lab-9\lab-9\bin\Debug\lab-9.exe.config
+E:\softwareDevelopment-labs\lab-9\lab-9\bin\Debug\lab-9.exe
+E:\softwareDevelopment-labs\lab-9\lab-9\bin\Debug\lab-9.pdb
+E:\softwareDevelopment-labs\lab-9\lab-9\obj\Debug\lab-9.csprojResolveAssemblyReference.cache
+E:\softwareDevelopment-labs\lab-9\lab-9\obj\Debug\lab-9.csproj.CoreCompileInputs.cache
+E:\softwareDevelopment-labs\lab-9\lab-9\obj\Debug\lab-9.exe
+E:\softwareDevelopment-labs\lab-9\lab-9\obj\Debug\lab-9.pdb
+D:\c#\lab-9\lab-9\obj\Debug\lab-9.csprojResolveAssemblyReference.cache
+D:\c#\lab-9\lab-9\obj\Debug\lab-9.csproj.CoreCompileInputs.cache
+D:\c#\lab-9\lab-9\obj\Debug\lab-9.exe
+D:\c#\lab-9\lab-9\obj\Debug\lab-9.pdb
+D:\c#\lab-9\lab-9\bin\Debug\lab-9.exe.config
+D:\c#\lab-9\lab-9\bin\Debug\lab-9.exe
+D:\c#\lab-9\lab-9\bin\Debug\lab-9.pdb
