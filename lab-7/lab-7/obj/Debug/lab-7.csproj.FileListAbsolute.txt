@@ -1,0 +1,7 @@
+E:\softwareDevelopment-labs\lab-7\lab-7\bin\Debug\lab-7.exe.config
+E:\softwareDevelopment-labs\lab-7\lab-7\bin\Debug\lab-7.exe
+E:\softwareDevelopment-labs\lab-7\lab-7\bin\Debug\lab-7.pdb
+E:\softwareDevelopment-labs\lab-7\lab-7\obj\Debug\lab-7.csprojResolveAssemblyReference.cache
+E:\softwareDevelopment-labs\lab-7\lab-7\obj\Debug\lab-7.csproj.CoreCompileInputs.cache
+E:\softwareDevelopment-labs\lab-7\lab-7\obj\Debug\lab-7.exe
+E:\softwareDevelopment-labs\lab-7\lab-7\obj\Debug\lab-7.pdb
