@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<link rel="stylesheet" href="../css/style.css">
+    	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&amp;subset=cyrillic" rel="stylesheet">   
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap-grid.min.css">
+        <link rel="shortcut icon" href="../img/favicon.ico" type="image/ico">
+        <script src="../js/libs/d3.js"></script>
+        <script src="../js/alchemy.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <title>Alchemy game</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    	<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-4 ">
+						<div class="d-flex">
+							<div class="logo my-auto">ALCHEMY GAME</div>
+							<button type="button" class="btn btn-secondary-2" data-toggle="modal" data-target="#exampleModal">
+	                            ?
+	                        </button>
+						</div>
+					</div>
+					<div class="col-2 ml-auto">
+						<button type="button" class="btn btn-info " onclick="reloadPage()">Restart</button>
+					</div>
+				</div>
+			</div>
+		</header>
+
+       <section>
+			<div class="container">
+				<div class="row">
+					<div class="col-10 mx-auto">
+						<span class="d-flex justify-content-center"></span>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<div id="exampleModal" class="modal fade">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h4 class="modal-title">Рецепты</h4>
+						<button class="close" type="button" data-dismiss="modal">×</button>
+					</div>
+					<div class="modal-body">
+						<p>
+							dust = earth + air<br>
+							energy = air + fire<br>
+							swamp = water + earth<br>
+							quicksylver = water + metal<br>
+							lava = earth + fire<br>
+							steam = lava + water = water + air<br>
+							ash = fire + worm = fire + snake<br>
+							storm = air + energy<br>
+							stone = lava + water = lava + air<br>
+							sand = stone + water<br>
+							glass = sand + fire<br>
+							metal = stone + fire<br>
+							life = swamp + energy<br>
+							egg = snake + snake = stone + life<br>
+							weeds = life + water<br>
+							mushrooms = weeds + earth<br>
+							bacteria = life + swamp<br>
+							plancton = bacteria + water<br>
+							worm = bacteria + swamp<br>
+							fish = bacteria + plankton<br>
+							whale = fish + plankton<br>
+							snake = worm + swamp<br>
+							bird = egg + air<br>
+							turtle = egg + sand<br>
+							lizard = worm + snake
+						</p>
+					</div>
+					<div class="modal-footer"><button class="btn btn-info" type="button" data-dismiss="modal">Закрыть</button></div>
+				</div>
+			</div>
+		</div>
+    </body>
+    <script type="text/javascript">
+        function reloadPage() {
+            window.location.reload()
+        }
+    </script>
+</html>
