@@ -37,3 +37,7 @@ section {
 .btn-info {
 	width: 160px;
 }
+
+ul {
+	list-style-type: square;
+}
